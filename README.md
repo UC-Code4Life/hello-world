@@ -1,4 +1,4 @@
-# hell-world
+# hello-world
 My first respository.
 I'm a UC senior undergraduate student in the Cybersecurit major program.
 
