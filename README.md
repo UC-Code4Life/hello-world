@@ -1,6 +1,6 @@
 # hello-world
 My first respository.
-I'm a UC senior undergraduate student in the Cybersecurit major program.
+I'm a UC senior undergraduate student in the Cybersecurity major program.
 
 Make sure you completed the following items before you submit the assignment on Canvas:
 Create a repository on GitHub
